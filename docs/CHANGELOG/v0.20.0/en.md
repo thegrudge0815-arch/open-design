@@ -5,7 +5,7 @@ description: Start in Prototype, navigate every slide with previews and notes in
 
 ### 🌟 Codename: *Steady by Design*
 
-🧭 **53 PRs · 13 contributors · 5 days** — **Start in Prototype, navigate every
+🧭 **51 PRs · 13 contributors · 5 days** — **Start in Prototype, navigate every
 slide with previews and notes in sync, and export editable PowerPoint files with
 fonts and line breaks intact. We’ve also fixed an issue that could cause
 generated artifacts to open to a blank screen.** 0.19 filled the menu of things
@@ -119,9 +119,9 @@ click on Home to the file you hand off.
 - The DeepSeek Harness design collection gains six more curated plugins,
   illustrated covers and a fuller setup-to-design tutorial. (#6903, #6943, #6945)
 - The site publishes the 0.19.1 release, offers direct installer downloads, adds
-  the Hong Kong event recap and features Shanghai on Events. (#6901, #6982)
+  the Hong Kong event recap and features Shanghai on Events. (#6901)
 - READMEs carry a refreshed product tour across locales and a Feishu community
-  link. (#6922, #6946)
+  link. (#6922)
 
 ## 🔁 Changed
 
